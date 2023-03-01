@@ -1,10 +1,25 @@
 .App {
   text-align: center;
+  font-size: 1.8rem;
+  color: antiquewhite;
+  margin-top: 1rem;
 }
 
 .App-logo {
   height: 20vmin;
   pointer-events: none;
+  margin-bottom: 0;
+}
+
+ul {
+  margin: 2rem 35rem;
+  text-align: center;
+}
+
+input {
+  width: 12rem;
+  height: 2rem;
+  font-size: 1.5rem;
 }
 
 @media (prefers-reduced-motion: no-preference) {
