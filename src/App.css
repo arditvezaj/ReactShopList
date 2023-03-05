@@ -12,14 +12,29 @@
 }
 
 ul {
-  margin: 2rem 35rem;
+  margin: 1rem 47%;
+  padding: 0;
   text-align: center;
+  list-style: decimal;
+}
+
+li {
+  margin: 0 auto;
 }
 
 input {
   width: 12rem;
   height: 2rem;
   font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+button {
+  display: block;
+  margin: 1rem auto;
+  width: 6rem;
+  height: 2rem;
+  font-size: 1.2rem;
 }
 
 @media (prefers-reduced-motion: no-preference) {
